@@ -1,0 +1,12 @@
+semana 18
+1. Autenticação: Usar Firebase Authentication para gerenciar os logins e a
+criação de contas.
+2. Banco de Dados: Usar Firestore para armazenar dados de produtos,
+usuários, e pedidos.
+3. Funções de Backend: Usar AWS Lambda para processar eventos como a
+criação de pedidos e a verificação de pagamentos.
+5. Notificações: Usar Firebase Cloud Messaging para enviar notificações push
+aos usuários sobre o status do pedido.
+
+criar um ecomerce o mais simples possivel
+

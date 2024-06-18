@@ -1,0 +1,2 @@
+blog crud arquitetura monolítica
+semana 14
